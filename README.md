@@ -12,6 +12,9 @@ Get the latest sample code from GitHub using Git or download the repository as a
 
 1.  Download and install the [SimPEG](https://github.com/simpeg/simpeg), in your perfered way (Anaconda + Jupyter notebooks is the preferred method by the maintainers of this repository).
 
+2. Make sure the Python packages in requirements.txt are installed. This can be done with the command inside the directory. This can also be accomplished in a conda environment.
+
+    pip install -r requirements.txt
 
 ## Contributing changes
 
@@ -20,6 +23,8 @@ Get the latest sample code from GitHub using Git or download the repository as a
 ## Repository Structure
 
 Each folder is a separate geophysical method, and the Jupyter notebooks inside those folders include examples on using SimPEG for that method. Each notebook (should be) well documented and serve as both a basic tutorial and as an example for the use case. The notebooks can be run in the usual way using the [Jupyter](https://jupyter.org/) project.
+
+Other utilities that are useful for dealing with fileIO or 
 
 ## Licensing
 
