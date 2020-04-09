@@ -17,6 +17,10 @@ Get the latest sample code from GitHub using Git or download the repository as a
 
 * See [CONTRIBUTING.md](CONTRIBUTING.md)
 
+## Repository Structure
+
+Each folder is a separate geophysical method, and the Jupyter notebooks inside those folders include examples on using SimPEG for that method. Each notebook (should be) well documented and serve as both a basic tutorial and as an example for the use case. The notebooks can be run in the usual way using the [Jupyter](https://jupyter.org/) project.
+
 ## Licensing
 
 * See [LICENSE](LICENSE)
