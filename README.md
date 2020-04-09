@@ -22,7 +22,6 @@ Get the latest sample code from GitHub using Git or download the repository as a
 * See [LICENSE](LICENSE)
 
 ## SimPEG Links
-Website: https://simpeg.xyz/
-Github: https://github.com/simpeg/simpeg
-Installing: https://docs.simpeg.xyz/content/basic/installing.html
-
+* [Website](https://simpeg.xyz/)
+* [Github](https://github.com/simpeg/simpeg)
+* [Installing](https://docs.simpeg.xyz/content/basic/installing.html)
