@@ -14,7 +14,7 @@ Get the latest sample code from GitHub using Git or download the repository as a
 
 2. Make sure the Python packages in requirements.txt are installed. This can be done with the command inside the directory. This can also be accomplished in a conda environment.
     
-<pre><code>pip install -r requirements.txt</code></pre>
+        pip install -r requirements.txt
     
 ## Contributing changes
 
