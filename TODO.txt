@@ -1,0 +1,2 @@
+* grounded CSEM in frequency domain
+* grounded CSEM in time domain
