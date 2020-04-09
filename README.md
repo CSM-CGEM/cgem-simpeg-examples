@@ -1,5 +1,5 @@
 ## CGEM SimPEG Examples
-SimPEG examples that are specific for CGEM students. The idea is that we can create notebooks here that highlight specific use cases for Geophysics graduate students and then once they get cleaned up to the point of being useful, we can commit them back to the SimPEG repository.
+SimPEG examples that are specific for CGEM students. The idea is that we can create notebooks here that highlight specific use cases for geophysics graduate students and then once they get cleaned up to the point of being useful, we can commit them back to the SimPEG repository.
 
 ## Getting the examples
 
