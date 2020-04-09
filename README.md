@@ -10,7 +10,7 @@ Get the latest sample code from GitHub using Git or download the repository as a
 
 ## Before you begin
 
-1.  Download and install the [SimPEG](https://github.com/simpeg/simpeg), in your perfered way (Anaconda + Jupyter notebooks is the preferred method by the maintainers of this repository).
+1.  Download and install [SimPEG](https://github.com/simpeg/simpeg), in your perfered way (Anaconda + Jupyter notebooks is the preferred method by the maintainers of this repository).
 
 2. Make sure the Python packages in requirements.txt are installed. This can be done with the command inside the directory. This can also be accomplished in a conda environment.
     
