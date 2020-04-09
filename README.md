@@ -24,7 +24,7 @@ Get the latest sample code from GitHub using Git or download the repository as a
 
 Each folder is a separate geophysical method, and the Jupyter notebooks inside those folders include examples on using SimPEG for that method. Each notebook (should be) well documented and serve as both a basic tutorial and as an example for the use case. The notebooks can be run in the usual way using the [Jupyter](https://jupyter.org/) project.
 
-Other utilities that are useful for dealing with fileIO or 
+Other utilities that are useful for dealing with fileIO or other  SimPEG objects will go into the utils directory. It may be useful to add this directory to your PYTHONPATH while dealing with these examples.
 
 ## Licensing
 
