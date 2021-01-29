@@ -1,0 +1,20 @@
+cpu-bind=MASK - compute006, task  0  0 [9989]: mask 0xffffff set
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.16.33.6:44583'
+distributed.diskutils - INFO - Found stale lock file and directory '/u/af/cf/ckohnke/scratch/dask_test/dask-worker-space/worker-5w4wptlw', purging
+distributed.worker - INFO -       Start worker at:    tcp://172.16.33.6:37984
+distributed.worker - INFO -          Listening to:    tcp://172.16.33.6:37984
+distributed.worker - INFO -          dashboard at:          172.16.33.6:36843
+distributed.worker - INFO - Waiting to connect to: tcp://138.67.132.244:34730
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                         24
+distributed.worker - INFO -                Memory:                  100.00 GB
+distributed.worker - INFO -       Local Directory: /u/af/cf/ckohnke/scratch/dask_test/dask-worker-space/worker-snd43rdn
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://138.67.132.244:34730
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.utils_perf - INFO - full garbage collection released 30.00 MB from 7235 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 199.88 MB from 7773 reference cycles (threshold: 10.00 MB)
+distributed.worker - INFO - Stopping worker at tcp://172.16.33.6:37984
+distributed.nanny - INFO - Worker closed
+slurmstepd: error: *** JOB 11906205 ON compute006 CANCELLED AT 2021-01-29T14:17:35 ***

@@ -1,0 +1,17 @@
+cpu-bind=MASK - compute010, task  0  0 [26333]: mask 0xffffff set
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.16.33.10:46246'
+distributed.worker - INFO -       Start worker at:   tcp://172.16.33.10:44365
+distributed.worker - INFO -          Listening to:   tcp://172.16.33.10:44365
+distributed.worker - INFO -          dashboard at:         172.16.33.10:45293
+distributed.worker - INFO - Waiting to connect to: tcp://138.67.132.244:43019
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                         24
+distributed.worker - INFO -                Memory:                  100.00 GB
+distributed.worker - INFO -       Local Directory: /u/af/cf/ckohnke/scratch/dask_test/dask-worker-space/worker-ld_6otks
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://138.67.132.244:43019
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - Stopping worker at tcp://172.16.33.10:44365
+distributed.nanny - INFO - Worker closed
+slurmstepd: error: *** JOB 11906150 ON compute010 CANCELLED AT 2021-01-29T13:48:57 ***

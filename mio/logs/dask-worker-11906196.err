@@ -1,0 +1,16 @@
+cpu-bind=MASK - compute004, task  0  0 [28838]: mask 0xffffff set
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.16.33.4:45269'
+distributed.diskutils - INFO - Found stale lock file and directory '/u/af/cf/ckohnke/scratch/dask_test/dask-worker-space/worker-kwhf6t86', purging
+distributed.worker - INFO -       Start worker at:    tcp://172.16.33.4:41577
+distributed.worker - INFO -          Listening to:    tcp://172.16.33.4:41577
+distributed.worker - INFO -          dashboard at:          172.16.33.4:45104
+distributed.worker - INFO - Waiting to connect to: tcp://138.67.132.244:42097
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                         24
+distributed.worker - INFO -                Memory:                  100.00 GB
+distributed.worker - INFO -       Local Directory: /u/af/cf/ckohnke/scratch/dask_test/dask-worker-space/worker-5w4wptlw
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://138.67.132.244:42097
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+slurmstepd: error: *** JOB 11906196 ON compute004 CANCELLED AT 2021-01-29T14:14:39 ***
