@@ -1,6 +1,7 @@
 # Data
 data/
 !data/*/*.ipynb
+*.err
 
 ## Core latex/pdflatex auxiliary files:
 *.aux

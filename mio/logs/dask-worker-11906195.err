@@ -1,2 +1,0 @@
-cpu-bind=MASK - compute002, task  0  0 [32249]: mask 0xffffff set
-slurmstepd: error: *** JOB 11906195 ON compute002 CANCELLED AT 2021-01-29T14:14:37 ***

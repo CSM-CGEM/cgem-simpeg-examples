@@ -1,3 +1,0 @@
-cpu-bind=MASK - compute009, task  0  0 [19759]: mask 0xffffff set
-distributed.nanny - INFO -         Start Nanny at: 'tcp://172.16.33.9:43802'
-slurmstepd: error: *** JOB 11906215 ON compute009 CANCELLED AT 2021-01-29T14:17:32 ***
